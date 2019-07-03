@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="newProject:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/newProject_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="newProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="newProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="JAX-WS-Apache Axis" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/axis.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/commons-discovery-0.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/commons-logging-1.0.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/jaxrpc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/log4j-1.2.8.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/saaj.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Project/lib/wsdl4j-1.5.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/eclipseJSP/JSP/WebContent/WEB-INF/lib/cos.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/eclipseJSP/JSP/WebContent/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/eclipseJSP/JSP/WebContent/WEB-INF/lib/ojdbc6.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/eclipseJSP/JSP/WebContent/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/annotations-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/catalina-ant.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/catalina-ha.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/catalina.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/ecj-4.6.3.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/el-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/jasper-el.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/jasper.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/jaspic-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/jsp-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/servlet-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-api.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-util.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/오후반/apache-tomcat-8.5.41-windows-x64/apache-tomcat-8.5.41/lib/websocket-api.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
